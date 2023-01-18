@@ -116,6 +116,3 @@
 If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
 ----
-Credits: [DiptoChakrabarty](https://github.com/DiptoChakrabarty)
-
-Last Edited on: 31/08/2020
