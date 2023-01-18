@@ -1,9 +1,9 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Vivek Kumar Vishwakarma](https://www.linkedin.com/in/vivek-vishwakarma-15680116b/) :blush:	 . Currently I am student MCA from VIT Vellore.
+* I am [Vivek Kumar Vishwakarma](https://www.linkedin.com/in/vivek-vishwakarma-15680116b/) :blush:	 . Currently I am pursuing MCA from VIT University, Vellore.
 
-* I am a Python/ Django Developer | Full Stack Developer.
+* I am a Python/ Django | Full Stack Developer.
 
 * I have done multiple projects ranging from the field of Machine Learning , Python/ Django Framework :file_cabinet: .
 
