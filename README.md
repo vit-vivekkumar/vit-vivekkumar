@@ -13,7 +13,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/vivek-vishwakarma-15680116b/) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/vivek-vishwakarma-15680116b/) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -23,8 +23,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>Django</center></b></span> 
+<img height=60px src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> 
 </td>
 
 <td align="center" width="20%">
