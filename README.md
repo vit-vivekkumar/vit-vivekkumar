@@ -1,118 +1,82 @@
-<h1 align="center"> Hello There 👋 </h1>
+# Hi there, I'm Vivek Kumar! 👋
 
+🚀 **Full Stack Developer** | Python, Django, FastAPI | Cloud & AI Enthusiast | Passionate about AI in Education & EV Charging Systems
 
-* I am [Vivek Kumar](https://www.linkedin.com/in/vivek-vishwakarma-15680116b/) :blush:	 . Currently I am pursuing MCA from VIT University, Vellore.
+---
 
-* I am a Python/ Django | Full Stack Developer.
+## 👨‍💻 About Me
 
-* I have done multiple projects ranging from the field of Machine Learning , Python/ Django Framework :file_cabinet: .
+I'm a Full Stack Developer with expertise in building scalable web applications, specializing in **Python, Django, Flask, and FastAPI**. With a strong foundation in **REST APIs, microservices, and cloud technologies**, I enjoy working on **AI-powered solutions**, automation, and enhancing user experiences through efficient system design. 
 
-* I am currently brushing up my skills and plan to learn ReactJS and AWS .
+🔹 Passionate about **AI in Education**, creating **personalized learning experiences** for students.  
+🔹 Experienced in the **EV Charging Industry**, implementing **OCPP/OCPI protocols** for smart charging solutions.  
+🔹 Enthusiastic about **Cloud, DevOps, and AI/ML**, constantly exploring innovative technologies.  
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+---
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+## 📚 Education
 
-* Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/vivek-vishwakarma-15680116b/) :sparkler:
+🎓 **Master of Computer Applications** – Vellore Institute of Technology *(2021-2023)*   
+🎓 **Bachelor of Computer Applications** – MCRP University *(2018-2021)*
 
+---
 
-## Tech Stack :computer:
+## 💼 Work Experience
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=60px src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> 
-</td>
+### 🔹 Python Full Stack Developer | Natlov Technologies *(Dec 2024 - Present)*
+- Developing **web apps, REST APIs, and microservices** using **Django, Flask, and FastAPI**.
+- Implementing **AWS Lambda, SQS, SNS, S3, AngularJS** for scalable cloud applications.
+- Managing **CI/CD pipelines** for automated deployments and enhancing development efficiency.
 
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
-</td>
+### 🔹 Associate Software Engineer | EVC Technologies *(Feb 2023 - Nov 2024)*
+- Developed an **EV Charging System** with **OCPP 1.6–2.0.1, OCPI 2.2.1**.
+- Built **real-time monitoring & remote session control** for charging stations using **Django, PostgreSQL, and WebSockets**.
+- Optimized performance with **Celery, Redis**, and ensured seamless **CPO coordination**.
 
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
-</tr>
+### 🔹 Software Developer Intern | Aara Technologies *(Feb 2021 - July 2021)*
+- Worked on **Django, REST APIs, PostgreSQL**, and frontend technologies.
+- Collaborated in **SCRUM meetings**, enhancing development and API testing skills.
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
+---
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
+## 🔥 Projects
 
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
-</tr>
+🔹 **EV Charging CMS** – Python, Django, ReactJS, OCPP/OCPI, PostgreSQL, Firebase  
+*Developed a CMS for managing EV charging stations, real-time monitoring, and remote control.*  
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
+🔹 **AI-Powered Student Engagement System** – Deep Learning, Facial Detection, Video Communication  
+*Built a system to analyze student engagement through live video and AI-powered insights.*  
 
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
+🔹 **Personal Blogging System** – Django, REST API, JavaScript, Bootstrap, SQLite  
+*Designed a blogging platform with an admin dashboard, user authentication, and interactive features.*  
 
+---
 
+## 🛠️ Skills & Technologies
 
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
-</tr>
+💡 **Languages & Frameworks:** Python (Django, Flask, FastAPI, NumPy, Pandas), JavaScript (ReactJS, AngularJS)  
+🛠 **Databases:** SQL, PostgreSQL, MongoDB  
+☁️ **Cloud & DevOps:** AWS (Lambda, S3, SQS, SNS), Google Cloud, Firebase  
+🔗 **APIs & Protocols:** REST, WebSocket, Celery, OCPP/OCPI  
+🔍 **Other Tools:** GitHub, GitLab, Jira, Linux, Unit Testing, Web Scraping  
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
+---
 
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-</td>
+## 🎖 Certifications
 
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-</tr>
+✅ **Career Edge - TCS iON** – Tata Consultancy Services (TCS)  
+✅ **Python Full Stack Development** – Hebeon Technologies  
+✅ **Google Cloud Training (GCP)** – Coursera  
 
-</tbody>
-</table>
+---
 
+## 📫 Connect with Me
 
- 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+🔗 [GitHub](https://github.com/vit-vivekkumar)   
+🔗 [LinkedIn](https://linkedin.com/in/vivek-kumar-15680116b)   
+📧 vivek964800@gmail.com   
+📞 +91 9889481855  
 
-## My Certifications :arrow_down:
+---
 
-- [Red Hat Certified System Administrator](https://drive.google.com/file/d/13EaKphJ3zC1vn1q-nevF6YoJuit_aeik/view?usp=sharing)
-- [Red Hat Certified Specialist in Ansible Automation](https://drive.google.com/file/d/1Nf-0RHdcBAlj1-tMuMy_12cw9d3hGDgN/view?usp=sharing)
-- [Red Hat Certified  Engineer](https://drive.google.com/file/d/1b2ivwSc9fu9V2E7OZ7jrk7YQMaN-T12i/view?usp=sharing) 
-
-
-## My Activities :mailbox_with_mail:
-
-| BLOGS :open_book: | WEBINARS :tv: |
-| :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
-
-If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
-
-----
+💡 *Let's collaborate on exciting AI, Cloud, and Web Development projects!* 🚀
